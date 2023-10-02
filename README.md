@@ -1,5 +1,5 @@
 # Introduction
-## A brief introduction about my GitHub.
+A brief introduction about my GitHub.
 
 ******
   **Unfortunately, I found that the Github account I created in 2018 was lost. In fact, it can't be found back together with some projects I saved before. But it doesn't matter. I still have this spare account created in 2020 to use. From today on, I will update and share my study materials with my partners from time to time.**
